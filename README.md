@@ -17,7 +17,7 @@ See [benchmarks](#benchmarks) below.
 Install via composer:
 
 ```
-composer require rap2hpoutre/fast-excel
+composer require megaads-vn/fast-excel
 ```
 
 Export a Model to `.xlsx` file:
